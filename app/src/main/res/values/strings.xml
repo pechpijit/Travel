@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">ท่องเที่ยวจังหวัดสุพรรณบุรี</string>
+
+
+    <string name="wat1_name">วัดใหญ่ชัยมงคล</string>
+    <string name="wat1_detail">\t\t\tวัดนี้เดิมพระเจ้าอู่ทอง..</string>
+    <string name="title_activity_news">NewsActivity</string>
+
+
+</resources>
